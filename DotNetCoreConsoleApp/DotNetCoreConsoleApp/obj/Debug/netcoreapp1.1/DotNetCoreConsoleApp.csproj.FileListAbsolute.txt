@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\bin\Debug\netcoreapp1.1\DotNetCoreConsoleApp.deps.json
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\bin\Debug\netcoreapp1.1\DotNetCoreConsoleApp.runtimeconfig.json
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\bin\Debug\netcoreapp1.1\DotNetCoreConsoleApp.runtimeconfig.dev.json
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\bin\Debug\netcoreapp1.1\DotNetCoreConsoleApp.dll
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\obj\Debug\netcoreapp1.1\DotNetCoreConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\obj\Debug\netcoreapp1.1\DotNetCoreConsoleApp.AssemblyInfo.cs
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\bin\Debug\netcoreapp1.1\DotNetCoreConsoleApp.pdb
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\obj\Debug\netcoreapp1.1\DotNetCoreConsoleApp.dll
+C:\Users\HP\Documents\DVLP\C#\DotNetCore\DotNetCoreConsoleApp\DotNetCoreConsoleApp\obj\Debug\netcoreapp1.1\DotNetCoreConsoleApp.pdb
